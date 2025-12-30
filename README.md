@@ -49,5 +49,4 @@ The project includes a **Power BI dashboard** that displays the charts and graph
 - **Cluster 1:** Inactive customers (targeted re-engagement campaigns).
 - **Clusters 0 & 2:** Low-to-moderate spenders (promotions and upselling).
 
-   ```bash
-   git clone https://github.com/your-username/customer-segmentation-marketing-analysis.git
+ 
